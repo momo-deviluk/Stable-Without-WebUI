@@ -2,10 +2,8 @@
 
 The goal of this repository is to provide a Colab notebook to run the text-to-image ["Stable Diffusion"][huggingface-latest-weights] model [1].
 
-# Usage
-
--   Run [`stable_diffusion.ipynb`][colab-notebook-stable-diffusion].
-[![Open In Colab][colab-badge]][colab-notebook-stable-diffusion]
+### Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/momo-deviluk/Stable-Without-WebUI/blob/main/stable_diffusion.ipynb)
 
 ## Safety Check
 
